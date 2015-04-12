@@ -1,6 +1,10 @@
 oschina 邮箱识别
 ===============
 
+例子
+----
+[![email file](https://github.com/wfirewood/oschina_email_recognition/blob/master/oschina_all_gif/1015.gif)]
+
 目录
 ----
 
